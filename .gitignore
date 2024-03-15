@@ -1,3 +1,2 @@
 /.idea
-/youtube_29_dias_angular_17/dia_1/node_module
-*/node_modules/
+**/node_modules/
