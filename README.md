@@ -28,8 +28,8 @@ Aquí hay una lista de tecnologías y herramientas que suelo utilizar:
 
 Si eres un reclutador interesado en discutir oportunidades profesionales, o simplemente quieres decir hola, no dudes en contactarme:
 
-- **LinkedIn**: [Tu LinkedIn](www.linkedin.com/in/hector-mendez-gutierrez)
-- **Correo Electrónico**: hector.mendez.gutierrez@outlook.com
+- **LinkedIn**: [Más información](www.linkedin.com/in/hector-mendez-gutierrez)
+- **Correo Electrónico**: [Más información](hector.mendez.gutierrez@outlook.com)
 
 ---
 
