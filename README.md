@@ -10,6 +10,8 @@ El objetivo de este portafolio es proporcionar una ventana clara a mi experienci
 
 A continuación, encontrarás mis proyectos más destacados:
 
+- **Curso Vuejs** - Es un curso de udemy, para aprender a utilizar Vuejs, de la mano del profesor Juan Pablo De la torre Valdez. [Más información](https://github.com/mendezgutierrezh/portafolio.git).
+
 - **29 dias con Angular 17** - Un tutorial en youtube el cual tiene por objetivo revisar las nuevas caractriticas del framework. [Más información](https://github.com/mendezgutierrezh/portafolio.git).
 
 
